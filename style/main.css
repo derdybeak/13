@@ -617,13 +617,6 @@ hr {
     color: #1a55de;
     background: #f3f3f3; 
     font-size: 25px; }
-  .tile.tile-28 .tile-inner {
-    color: #8816aa;
-    background: #ff7400; }
-  .tile.tile-28➔ .tile-inner {
-    color: #8816aa;
-    background: #ff7400; 
-    font-size: 25px; }
   .tile.tile-43 .tile-inner {
     color: #8c4c77;
     background: #e8dde6; }
@@ -646,11 +639,11 @@ hr {
     background: #fcff21; 
     font-size: 25px; }
   .tile.tile-76 .tile-inner {
-    color: #546564;
-    background: #2a1f2d; }
+    color: #678f8d;
+    background: #546564; }
   .tile.tile-76➔ .tile-inner {
-    color: #546564;
-    background: #2a1f2d; 
+    color: #678f8d;
+    background: #546564; 
     font-size: 25px; }
   .tile.tile-81 .tile-inner {
     color: #affe25;
@@ -686,6 +679,13 @@ hr {
   .tile.tile-97➔ .tile-inner {
     color: #fcff37;
     background: #b18cff; 
+    font-size: 25px; }
+  .tile.tile-98 .tile-inner {
+    color: #fcff37;
+    background: #ff8d2e; }
+  .tile.tile-98➔ .tile-inner {
+    color: #fcff37;
+    background: #ff8d2e; 
     font-size: 25px; }
   .tile.tile--5 .tile-inner {
     color: #f6ef19;
